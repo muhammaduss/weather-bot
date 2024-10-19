@@ -13,6 +13,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4. Run
+```bash
+python main.py
+```
 
 ## Usage
 Go to [bot](https://t.me/weather_bobr_ai_bot)
